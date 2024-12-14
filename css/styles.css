@@ -491,11 +491,12 @@ li.active {
 	position: relative;
 	left: 400px;
 	bottom: 560px;
+	color: white;
 	
 }
 
 .yeahh1 {
-	color: #E7808B;
+	color: #ffffff;
 }
 
 .button {
@@ -549,4 +550,8 @@ li.active {
 	width: 25%; 
 	margin-top: 20px;
 	display: inline-block;
-	
+}
+
+h1 {
+	color: white;
+}
